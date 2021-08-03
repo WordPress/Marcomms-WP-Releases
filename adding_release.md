@@ -17,4 +17,4 @@
 
 `git commit -m "adding in symlink"`
 
-`git commit -m "adding in symlink"`
+`git push`
