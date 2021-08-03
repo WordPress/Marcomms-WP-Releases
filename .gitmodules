@@ -1,0 +1,3 @@
+[submodule "5.5/WP5.5"]
+	path = 5.5/WP5.5
+	url = https://github.com/wpmarketingteam/WP5.5.git
