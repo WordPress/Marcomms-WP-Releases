@@ -1,3 +1,3 @@
 This folder related to Helphub
 
-#7
+https://github.com/wpmarketingteam/Marcomms-WP-Releases/issues/7
