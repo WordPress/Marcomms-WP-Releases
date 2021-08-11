@@ -11,4 +11,8 @@ For Facebook, Twitter and LinkedIn - https://github.com/wpmarketingteam/Marcomms
 For Instagram - https://github.com/wpmarketingteam/Marcomms-WP-Releases/tree/main/5.8/social-media-images/instagram
 
 
-Link to slides on 5.8 features for meetups to adapt 
+<h2>Slides on 5.8 features for meetups to adapt</h2>
+
+https://docs.google.com/presentation/d/1Pl8eTd10reQM7rWbfy1Z8YhSQN5q73oC/edit?usp=sharing&ouid=107440732763452810942&rtpof=true&sd=true
+
+
