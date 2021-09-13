@@ -1,4 +1,6 @@
-This is the folder that deals specifically with the 5.8 release of WordPress.
+This is the folder that deals specifically with marketing promotion of the 5.8 release of WordPress.
+
+External channels on FSE info https://make.wordpress.org/marketing/2021/06/02/suggestions-for-external-channels-on-fse-info/
 
 <h2>Share about WordPress 5.8 on social media</h2>
 
